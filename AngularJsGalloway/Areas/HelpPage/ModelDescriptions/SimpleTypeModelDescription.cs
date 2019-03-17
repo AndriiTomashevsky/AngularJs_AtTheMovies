@@ -1,0 +1,6 @@
+namespace AngularJsGalloway.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
